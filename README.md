@@ -10,7 +10,7 @@ This repository provides source code of experiments on four datasets (CUB-200-20
 
 ## Global Structure
 
-[!image](https://github.com/Liuzt1999/SCAR/GA.png)
+![image](https://github.com/Liuzt1999/SCAR/GA.png)
 
 ## Requirements
 
