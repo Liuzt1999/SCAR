@@ -8,25 +8,6 @@ An powerful loss function is used to constrain the ranking relationship of simil
 
 This repository provides source code of experiments on four datasets (CUB-200-2011, Cars-196, Stanford Online Products and In-shop) and pretrained models.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Global Structure
 
 ![image](https://github.com/Liuzt1999/SCAR/blob/main/GA.png)
