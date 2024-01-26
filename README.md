@@ -1,6 +1,6 @@
 # Deep Metric Learning Assisted by Intra-variance in A Semi-supervised View of Learning
 
-Official PyTorch implementation of [Deep Metric Learning Assisted by Intra-variance in A Semi-supervised View of Learning](https://arxiv.org/abs/2304.10941)
+Official PyTorch implementation of [Deep Metric Learning Assisted by Intra-variance in A Semi-supervised View of Learning](https://doi.org/10.1016/j.engappai.2024.107885)
 
 Our method is improved by [Self-Supervised Synthesis Ranking for Deep Metric Learning](https://ieeexplore.ieee.org/abstract/document/9598814)
 
