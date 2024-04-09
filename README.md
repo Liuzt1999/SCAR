@@ -24,6 +24,10 @@ This repository provides source code of experiments on four datasets (CUB-200-20
 ## Installation
 - conda create -n SCAR python=3.10.4
 - conda activate SCAR
+- pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 -f https://download.pytorch.org/whl/torch_stable.html
+- pip install tqdm
+- pip install wandb
+- pip install pytorch-metric-learning
   
 
 ## Datasets
