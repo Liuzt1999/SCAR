@@ -21,6 +21,11 @@ This repository provides source code of experiments on four datasets (CUB-200-20
 - wandb
 - [Pytorch-Metric-Learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 
+## Installation
+- conda create -n SCAR python=3.10.4
+- conda activate SCAR
+  
+
 ## Datasets
 
 Download four public benchmarks for deep metric learning
